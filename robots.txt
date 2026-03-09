@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://bihar-bhumi-vs-other-state-land-rec.vercel.app/
+Sitemap: https://bihar-bhumi-vs-other-state-land-rec.vercel.app/sitemap.xml
